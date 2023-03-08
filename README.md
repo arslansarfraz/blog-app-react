@@ -7,7 +7,7 @@ A blog application with React and Firebase as a backend
 
 This is a React-based blog app that lets users create, like, and delete posts. The app has a responsive design and is built using modern web development techniques. It's a great project to learn how to build a full-stack web application with React and other cutting-edge technologies.
 
-##Services
+## Services
 
 ### Login
 
@@ -33,11 +33,11 @@ Upon logging in or registering, users will be directed to the homepage where the
 ![newpost](./public/create-new-post.png)
 By clicking on the 'Add Post' button, users can access a modal that allows them to create a new post with a title, description, image URL, and content.
 
-## Others
+### Others
 
-=> Only owner of the post see <b>Delete</b> button
-=> Logout button
-=> Guest users view the content
+- Only owner of the post see <b>Delete</b> button
+- Logout button
+- Guest users view the content
 
 ## Setting up the project
 
@@ -46,7 +46,7 @@ To run this project, you need to create a keys.js file in the root directory of 
 - Create a file named keys.js in the root directory of the project.
 - Open the keys.js file and add the following code:
 
-<code>export const apiKey = "YOUR_FIREBASE_API_KEY";<code/>
+  <code>export const apiKey = "YOUR_FIREBASE_API_KEY";<code/>
 
 - Replace YOUR_FIREBASE_API_KEY with your actual Firebase API key.
 - Save the keys.js file.
