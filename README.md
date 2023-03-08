@@ -45,9 +45,7 @@ To run this project, you need to create a keys.js file in the root directory of 
 
 - Create a file named keys.js in the root directory of the project.
 - Open the keys.js file and add the following code:
-
-  <code>export const apiKey = "YOUR_FIREBASE_API_KEY";<code/>
-
+- <code>export const apiKey = "YOUR_FIREBASE_API_KEY"<code/>
 - Replace YOUR_FIREBASE_API_KEY with your actual Firebase API key.
 - Save the keys.js file.
 
@@ -55,9 +53,9 @@ Once you have created the keys.js file and added your Firebase API key to it, yo
 
 ## Here are some common commands
 
-- npm install: Installs all the dependencies required for the project.
-- npm run dev: Runs the app in development mode.
-- npm run build: Builds the app for production to the build folder.
+npm install: Installs all the dependencies required for the project.
+npm run dev: Runs the app in development mode.
+npm run build: Builds the app for production to the build folder.
 
 ## Live
 
