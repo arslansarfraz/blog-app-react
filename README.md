@@ -45,7 +45,9 @@ To run this project, you need to create a keys.js file in the root directory of 
 
 1. Create a file named keys.js in the root directory of the project.
 2. Open the keys.js file and add the following code:
-   <code>export const apiKey = "YOUR_FIREBASE_API_KEY"<code/>
+
+   export const apiKey = "YOUR_FIREBASE_API_KEY"
+
 3. Replace YOUR_FIREBASE_API_KEY with your actual Firebase API key.
 4. Save the keys.js file.
 
